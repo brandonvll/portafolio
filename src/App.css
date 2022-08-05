@@ -1,0 +1,54 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*Menu*/
+ul.navbar-nav{
+    list-style: none;
+    display: flex;
+    margin: 0%;
+    position: relative;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 50%;
+    padding-right: 5%;
+}
+.orange{
+    color: #EF9919!important;
+}
+
+.nav-item{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.encabezado {
+    background-color: #197F5B !important;
+    padding: 0%;
+}
+
+/*Home*/
+
+
+/*about me*/
+.foto1{
+    border-radius: 90px;
+    max-width: 200px;
+    max-height: 200px
+}
+
+.dowload-cv{
+    text-align: center;
+}
+input[type="button"] {
+    background-color:#197F5B;
+    color: white;
+    border-radius: 40px;
+    border: none;
+    height: 35px;
+  }
