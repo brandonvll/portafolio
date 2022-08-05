@@ -6,6 +6,7 @@ import AboutMe from "./components/AboutMe";
 import Skills from "./components/Skills";
 import Contact from "./components/Contact";
 import Briefcase from "./components/Briefcase";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
         <Skills />
         <Briefcase />
         <Contact />
+        <Footer/>
       </div>
     </>
   );
