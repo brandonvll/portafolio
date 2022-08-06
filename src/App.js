@@ -24,7 +24,7 @@ function App() {
         <Skills />
         <Briefcase />
         <Contact />
-        <Footer/>
+        <Footer />
       </div>
     </>
   );

@@ -252,6 +252,42 @@ ul.navbar-nav {
     text-align: center;
 }
 
+/*My works*/
+
+.portfolio-section{
+    background-color: #777;
+}
+.portfolio-container {
+    width: 95%;
+}
+
+.title-works {
+    text-align: center;
+    font-size: 60px;
+    left: 0;
+    position: relative;
+    right: 0;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: #ffb400;
+}
+
+.list-works {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.img-works{
+    width: 590px;
+}
+
+
+
+
 /*skills*/
 
 .cards-section {
@@ -311,7 +347,6 @@ ul.navbar-nav {
     align-content: center;
     font-size: 60px;
     left: 0;
-    letter-spacing: 10px;
     line-height: 0.7;
     position: relative;
     right: 0;
